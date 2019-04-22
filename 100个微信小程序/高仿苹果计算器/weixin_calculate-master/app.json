@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#222",
+    
+    "navigationBarTitleText": "Shine高仿苹果计算器"
+    
+  }
+}
